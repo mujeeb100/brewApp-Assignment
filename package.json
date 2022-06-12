@@ -1,5 +1,5 @@
 {
-  "name": "my-app",
+  "name": "brew-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,7 +16,8 @@
     "react-scripts": "5.0.1",
     "sass": "^1.52.3",
     "web-vitals": "^2.1.4",
-    "node": "v16.15.0"
+    "node": "v16.15.0",
+    "npm": "8.9.0"
   },
  
   "scripts": {
@@ -43,4 +44,5 @@
       "last 1 safari version"
     ]
   }
+ 
 }
